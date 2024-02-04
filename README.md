@@ -61,3 +61,6 @@ YOLOV8 AND BEYOND_**](https://arxiv.org/pdf/2304.00501v1.pdf), в которой
 <p align="center">
   <img src="https://github.com/LIvanoff/gus-detect/blob/master/assets/gui.png"  alt="GUI">
 </p>
+
+При работе с моделью пользователь может настраивать параметры инференса YOLO, определяя уровень уверенности модели, выбирая устройство на котором будут производиться вычисления, а также толщину ограничивающего 
+прямоуголника (bounder box).
